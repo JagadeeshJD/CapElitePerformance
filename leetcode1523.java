@@ -1,6 +1,6 @@
-1523.Given two non-negative integers low and high.Return the count of odd numbers between low and high (inclusive).
+//1523.Given two non-negative integers low and high.Return the count of odd numbers between low and high (inclusive).
 
-Solution
+//Solution
 class Solution {
     public int countOdds(int low, int high) {
         int n=high-low+1;
